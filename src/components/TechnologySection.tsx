@@ -77,7 +77,7 @@ const TechnologySection = () => {
           </p>
         </div>
 
-        {/* card */}
+        {/* Card */}
 
         <div className="grid grid-cols-4 gap-7 ">
           <div className="grid  gap-5 col-span-3 grid-cols-3">
