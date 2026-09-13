@@ -1,5 +1,5 @@
 
-// Herosection 
+
 
 import buildingLogo from "../assets/banner-stack.png";
 const HeroSection = () => {
