@@ -1,4 +1,4 @@
-
+// app 
 import './App.css'
 import FooterSection from './components/FooterSection'
 import HeroSection from './components/HeroSection'
