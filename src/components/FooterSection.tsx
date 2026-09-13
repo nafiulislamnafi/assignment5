@@ -1,3 +1,6 @@
+
+// footer 
+
 import devStackLogo from "../assets/logo-text.png";
 const FooterSection = () => {
   return (
